@@ -1,0 +1,6 @@
+{
+  "name": "ai Chat",
+  "description": "A sleek and responsive chat application powered by the Google Gemini API. Engage in dynamic, real-time conversations with a state-of-the-art AI.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
